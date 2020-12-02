@@ -9,11 +9,11 @@ The satisfaction level and last evaluation were grouped into classes for easier 
 
 The screenshot below shows the average yearly hours worked per department. There are no major differences among the values.
 
-![](images/image2.png)
+![](images/image3.png)
 
 The below grouped bar chart illustrates the left or stayed employees in the organization per department. The number of leavers is approximately proportionate to the number of employees who stayed in the organization. The leavers represent almost one third of the staying employees in each department.
 
-![](images/image3.png)
+![](images/image2.png)
 
 After performing the needed analysis, the below screenshot shows that most leavers have low and medium salaries, 30% and 20%, respectively. 
 
