@@ -26,6 +26,6 @@ Since inceases in salaries are mostly driven by promotions, it is assumed that m
 The number of leavers who had low salary and were not promoted in the last 5 years is 2,158 employees which represents 99.35% of leavers of the same category. The number of those who have medium salary is 1,312 employees that represents 99.62% of leavers of the same category.
 After this analysis, it is clear that the highest affecting variable on employee attrition is whether an employee has been promoted in the last five years or not. In this case, an appropriate model which is binary logistic regression is used. The data was split into training and testing sets, and the model was trained on the training data. After that, the model was used to predict the number of leaving employees in the test set. The below confusion matrix indicates that the model performs fairly well to predict the actual number of staying employees. However, it needs some improvement in predicting the actual number of leavers.  
 
-![](images/image5.png)
+![](images/image6.png)
 
 
